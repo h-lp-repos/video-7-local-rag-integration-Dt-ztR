@@ -1,0 +1,35 @@
+[
+  {
+    "query": "primer documento",
+    "retrieved_doc_ids": [
+      0,
+      1,
+      -1,
+      -1,
+      -1
+    ],
+    "generated_answer": "Answer for query: primer documento with docs [0, 1, -1, -1, -1]"
+  },
+  {
+    "query": "primer ejemplo de texto",
+    "retrieved_doc_ids": [
+      0,
+      1,
+      -1,
+      -1,
+      -1
+    ],
+    "generated_answer": "Answer for query: primer ejemplo de texto with docs [0, 1, -1, -1, -1]"
+  },
+  {
+    "query": "segundo ejemplo",
+    "retrieved_doc_ids": [
+      1,
+      0,
+      -1,
+      -1,
+      -1
+    ],
+    "generated_answer": "Answer for query: segundo ejemplo with docs [1, 0, -1, -1, -1]"
+  }
+]
